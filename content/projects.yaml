@@ -1,0 +1,35 @@
+- name: 某快消客户品牌人群画像项目
+  description: 综合运用客户CRM，第三方广告监测、DMP及social数据源，通过对设定人群的媒体访问行为、品牌接触、社交媒体自然声量、社交用户行为的分析及挖掘，形成人群画像，综合输出包含人口属性、媒体偏好、品牌偏好、消费倾向及兴趣爱好等维度的品牌人群研究报告。
+  details: |
+   → 参与项目前期的需求沟通及方案设计；
+   → 项目执行期间，与洞察团队沟通协调数据处理、报告框架搭建及分析维度设计；
+   → 项目执行后期，负责报告交付、报告讲解及客户意见跟进；
+   → 项目成功交付，与客户方市场、媒介及销售部门开展专题案例分享会并获得客户肯定。
+  position: 秒针系统-业务副经理
+  tags:
+    - 人群画像
+    - 数据分析
+  icon: website
+
+- name: First party DMP Project for a F&B Brand 
+  description: Assist client to fulfill Global PCE (Personalized Consumer Experiences) vision and be data-driven marketing organization
+  details: | 
+   → Configure customized audience segments for client's digital marketing activity 
+   → Facilitate multi source (1st,2nd and 3rd party) data ingestion and coordinate docking between vendors
+   → Manage tagging of digital media campaigns and deliver reports on DMP data validity.
+   → First phase project delivered successfully by team work with client and DMP vendor.
+  position: Digital supervisor, Mindshare
+  tags:
+    - DMP project
+    - Programmatic advertising
+  icon: website
+
+- name: Consumer Profile Project for a FMCG Brand 
+  description: Use CRM data, Ad tracking data, DMP and social data as input, through the analysis and mining of digital touchpoints (website visiting, brand contact and social media behavior,etc.), to form consumer profile containing multi-dimensional analysis on demography, media preferences, brand preferences, consumption propensity and personal interests of the audience.
+  details: |
+   → Successful report delivery and positive feedback from the case share conference with client's marketing, media and sales department. 
+  position: Associate BD Manager, Miaozhen
+  tags:
+    - Consumer insight
+    - Data analysis
+  icon: website

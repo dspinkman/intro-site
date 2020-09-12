@@ -1,0 +1,12 @@
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@dspinkman/gatsby-theme-intro": "https://github.com/dspinkman/gatsby-theme-intro#dev",
+    "gatsby": "^2.24.57",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
