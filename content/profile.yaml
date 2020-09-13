@@ -9,13 +9,13 @@
   company: Omnicom Media Group 
   for_hire: true
   focus: |
-    Bachelor of International 
-    Economics and Trade      
+    Bachelor International Economics and Trade      
     Shandong Technology and Business University
   focus_url: https://dspinkman.com   
   about: |
-     - More than 3 years experience in digital marketing
-     - involving online marketing performance masurement & optiomization, programmatic marketing and data insight
+     - 6+ years experience in advertising & marketing
+     - Backgroud in marketing performance masurement & optiomization, programmatic advertising and marketing automation
+     - Deliver service to clients from various industry, e.g. Nestle, HP, Xiaomi...
   skills:
     - Precision marketing / Programmatic advertising
     - Marketing automation / Marketing data & tech solution
@@ -25,7 +25,7 @@
     - Toutiao Marketing Certificate (I)
     - CET-6 (Proficient in listening, speaking, reading & writing)
   budget:
-    currency: $
-    min: 5
-    max: 30
-    default: 10
+    currency: ￥
+    min: 20
+    max: 50
+    default: 25
